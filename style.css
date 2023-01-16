@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    display: inline;
+    background-color: aqua;
+    padding: 5px 25px;
+}
+
+section {
+    background-color: rgb(195, 195, 195);
+    margin: 30px 60px;
+    height: 1030px;
+}
+
+img {
+    height: 540px;
+    border: 15px solid black;
+    margin-top: 15px;
+}
+
+#zitat {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+ul {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+li {
+    font-size: 20px;
+    text-align: left;
+    padding: 5px;
+    margin-left: 150px;
+}
+
+#infoBox {
+    background-color: rgb(228, 228, 228);
+    width: 50%;
+    margin: 0 auto;
+    padding: 5px 25px;
+}
+
+#infoText {
+    font-size: 18px;
+}
+
+footer {
+    background-color: aqua;
+    padding: 25px;
+}
